@@ -14,7 +14,10 @@
 
 ###Karate
 - [Karate Prüfungsordnung KYU](KarateKyuComplete.pdf)
-
+- [Karate Fußstellungen](Karate_Fußstellungen.pdf)
+- [Karate Begriffe](Karatebegriffe.pdf)
+- [Karate So-Tai-Waza](So-Tai-Waza.pdf)
+  
 ###Jiu-Jitsu
 - [Jiu-Jitsu Prüfungsordnung KYU](Prüfungsrichtlinien%20Kyu.pdf)
 - [Jiu-Jitsu Prüfungsordnung ü40](Prüfungsrichtl%2040J.pdf)
